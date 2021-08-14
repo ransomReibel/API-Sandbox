@@ -1,0 +1,25 @@
+[
+    {
+        "id":1,
+        "name":"Batman",
+        "email":"Batman@yahoo.com"
+
+    },
+
+    {
+        "id":2,
+        "name":"Joker",
+        "email":"Joker@aol.com"
+    },
+
+    {
+        "id":3,
+        "name":"Doc Oc",
+        "email":"DocOc@yahoo.com"
+    }
+
+
+
+
+
+]
